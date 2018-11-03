@@ -7,3 +7,5 @@
 ---
 ## 参考资料
 - [NDK_OpenCV_AndroidStudio](https://github.com/quanhua92/NDK_OpenCV_AndroidStudio)，参考的初始代码。
+- [face-detection](https://github.com/opencv/opencv/tree/master/samples/android/face-detection)，OpenCV中关于人脸检测的示例程序。
+- [在Android Studio中实现OpenCV人脸检测](https://www.jianshu.com/p/1fc91f9c9a67)，人来呢相关代码具体实现博客。
